@@ -20,7 +20,8 @@
     padding-inline: 1rem;
 }
 
-.nav-links{
+.nav-links ,a{
     display: flex;
+    color: black;
     column-gap: 1rem;
 }

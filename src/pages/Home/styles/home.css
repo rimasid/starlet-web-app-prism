@@ -16,6 +16,7 @@
 
 .start-button{
     position: absolute;
+    cursor: pointer;
     top: 48%;
     width: 9rem;
     height:2rem;
